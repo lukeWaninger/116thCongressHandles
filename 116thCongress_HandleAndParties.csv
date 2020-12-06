@@ -1,371 +1,371 @@
 Position,StateName,Name_x,Name_y,Handle,Affiliation,Body,Score,RankY,RankX,ndups
-GA-08,South Carolina,Austin Scott,Tim Scott,@AustinScottGA08,R,Senate,67,1,0,0
-MS-02,Mississippi,Bennie Thompson,Bennie Thompson,@BennieGThompson,D,House of Representatives,100,0,0,0
-MN-04,Minnesota,Betty McCollum,Betty McCollum,@BettyMcCollum04,D,House of Representatives,100,0,0,0
-NJ-09,Texas,Bill Jr.,Will Hurd,@BillPascrell,R,House of Representatives,59,1,1,0
-VA-03,Alabama,Robert Scott,Robert Aderholt,@BobbyScott,R,House of Representatives,67,0,0,0
+GA08,South Carolina,Austin Scott,Tim Scott,@AustinScottGA08,R,Senate,67,1,0,0
+MS02,Mississippi,Bennie Thompson,Bennie Thompson,@BennieGThompson,D,House of Representatives,100,0,0,0
+MN04,Minnesota,Betty McCollum,Betty McCollum,@BettyMcCollum04,D,House of Representatives,100,0,0,0
+NJ09,Texas,Bill Jr.,Will Hurd,@BillPascrell,R,House of Representatives,59,1,1,0
+VA03,Alabama,Robert Scott,Robert Aderholt,@BobbyScott,R,House of Representatives,67,0,0,0
 State,California,Name Sherman,Brad Sherman,@BradSherman,D,House of Representatives,75,0,0,0
-MD-02,Maryland,Dutch Ruppersberger,Dutch Ruppersberger,@Call_Me_Dutch,D,House of Representatives,100,0,0,0
-TX-11,Texas,Michael Conaway,Mike Conaway,@ConawayTX11,R,House of Representatives,81,0,0,0
-PA-02,Pennsylvania,Brendan Boyle,Brendan Boyle,@CongBoyle,D,House of Representatives,100,0,0,0
-ID-02,Idaho,Michael Simpson,Mike Simpson,@CongMikeSimpson,R,House of Representatives,81,0,0,0
-MS-04,Mississippi,Steven Palazzo,Steven Palazzo,@CongPalazzo,R,House of Representatives,100,0,0,0
-PA-15,Mississippi,Glenn Thompson,Bennie Thompson,@CongressmanGT,D,House of Representatives,83,1,0,0
-GA-10,Georgia,Jody Hice,Jody Hice,@CongressmanHice,R,House of Representatives,100,0,0,0
-NJ-02,New Jersey,Jefferson Dress,Jeff Van Drew,@CongressmanJVD,D,House of Representatives,64,0,0,0
-IL-08,Illinois,Raja Krishnamoorthi,Raja Krishnamoorthi,@CongressmanRaja,D,House of Representatives,100,0,0,0
-TN-04,Tennessee,Scott DesJarlais,Scott DesJarlais,@DesJarlaisTN04,R,House of Representatives,100,0,0,0
-NJ-01,New Jersey,Donald Norcross,Donald Norcross,@DonaldNorcross,D,House of Representatives,100,0,0,0
-FL-02,Florida,Neal Dunn,Neal Dunn,@DrNealDunnFL2,R,House of Representatives,100,0,0,0
-TN-01,North Carolina,David Roe,David Rouzer,@DrPhilRoe,R,House of Representatives,86,1,0,0
-NC-01,North Carolina,Butterfield Butterfield,G. K. Butterfield,@GKButterfield,D,House of Representatives,60,0,0,0
-PA-14,Pennsylvania,Guy Reschenthaler,Guy Reschenthaler,@GReschenthaler,R,House of Representatives,100,0,0,0
-VA-11,Virginia,Gerald Connolly,Gerry Connolly,@GerryConnolly,D,House of Representatives,83,0,0,0
-WA-03,Washington,Jaime Beutler,Jaime Herrera Beutler,@HerreraBeutler,R,House of Representatives,76,0,0,0
-TX-23,Texas,Will Hurd,Will Hurd,@HurdOnTheHill,R,House of Representatives,100,0,0,0
-MN-05,Minnesota,Ilhan Omar,Ilhan Omar,@Ilhan,D,House of Representatives,100,0,0,0
-TX-18,Texas,Sheila Lee,Sheila Jackson Lee,@JacksonLeeTX18,D,House of Representatives,71,0,0,0
-NE-01,Nebraska,Jeff Fortenberry,Jeff Fortenberry,@JeffFortenberry,R,House of Representatives,100,0,0,0
-RI-02,Rhode Island,James Langevin,James Langevin,@JimLangevin,D,House of Representatives,100,0,0,0
-WI-05,Pennsylvania,James Jr.,Bob Casey Jr.,@JimPressOffice,D,Senate,55,1,1,0
-OH-04,Minnesota,Jim Jordan,Jim Hagedorn,@Jim_Jordan,R,House of Representatives,64,1,0,0
-TX-20,Texas,Joaquin Castro,Joaquin Castro,@JoaquinCastrotx,D,House of Representatives,100,0,0,0
-TX-31,California,John Carter,Josh Harder,@JudgeCarter,D,House of Representatives,73,0,0,0
-CA-42,California,Ken Calvert,Ken Calvert,@KenCalvert,R,House of Representatives,100,0,0,0
-MO-01,Missouri,Wm. Clay,Lacy Clay,@LacyClayMO1,D,House of Representatives,59,0,0,0
-MD-05,Maryland,Steny Hoyer,Steny Hoyer,@LeaderHoyer,D,House of Representatives,100,0,0,0
-TX-13,Texas,Mac Thornberry,Mac Thornberry,@MacTXPress,R,House of Representatives,100,0,0,0
-FL-25,Florida,Mario Diaz-Balart,Mario Díaz-Balart,@MarioDB,R,House of Representatives,94,0,0,0
-NV-02,Nevada,Mark Amodei,Mark Amodei,@MarkAmodeiNV2,R,House of Representatives,100,0,0,0
-PA-16,Arizona,Mike Kelly,Mark Kelly,@MikeKellyPA,D,Senate,80,0,0,0
-NY-17,New York,Nita Lowey,Nita Lowey,@NitaLowey,D,House of Representatives,100,0,0,0
-CA-35,California,Norma Torres,Norma Torres,@NormaJTorres,D,House of Representatives,100,0,0,0
-NY-07,New York,Nydia VelÃ¡zquez,Nydia Velázquez,@NydiaVelazquez,D,House of Representatives,90,0,0,0
-NC-10,North Carolina,Patrick McHenry,Patrick McHenry,@PatrickMcHenry,R,House of Representatives,100,0,0,0
-VT,Vermont,Large Welch,Peter Welch,@PeterWelch,D,House of Representatives,64,0,0,0
-OH-16,Ohio,Anthony Gonzalez,Anthony Gonzalez,@RepAGonzalez,R,House of Representatives,100,0,0,0
-NY-14,New York,Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,@RepAOC,D,House of Representatives,100,0,0,0
-LA-05,South Carolina,Ralph Abraham,Ralph Norman,@RepAbraham,R,House of Representatives,64,1,0,0
-WA-09,Minnesota,Adam Smith,Tina Smith,@RepAdamSmith,D,Senate,70,1,0,0
-NC-12,North Carolina,Alma Adams,Alma Adams,@RepAdams,D,House of Representatives,100,0,0,0
-NE-03,Minnesota,Adrian Smith,Tina Smith,@RepAdrianSmith,D,Senate,73,0,0,0
-TX-09,Tennessee,Green Green,Mark E. Green,@RepAlGreen,R,House of Representatives,58,1,1,0
-FL-05,Florida,"Lawson, Jr.",Al Lawson,@RepAlLawsonJr,D,House of Representatives,60,1,0,0
-WV-02,West Virginia,Alexander Mooney,Alex Mooney,@RepAlexMooney,R,House of Representatives,81,0,0,0
-IN-07,Indiana,AndrÃ© Carson,André Carson,@RepAndreCarson,D,House of Representatives,88,0,0,0
-KY-06,Arizona,Andy Barr,Andy Biggs,@RepAndyBarr,R,House of Representatives,63,2,0,0
-MD-01,Arizona,Andy Harris,Andy Biggs,@RepAndyHarrisMD,R,House of Representatives,67,0,0,0
-NJ-03,Arizona,Andy Kim,Andy Biggs,@RepAndyKimNJ,R,House of Representatives,67,1,0,0
-MI-09,Michigan,Sander Levin,Andy Levin,@RepAndyLevin,D,House of Representatives,73,0,0,0
-MN-02,Minnesota,Angie Craig,Angie Craig,@RepAngieCraig,D,House of Representatives,100,0,0,0
-MO-2,Missouri,Ann Wagner,Ann Wagner,@RepAnnWagner,R,House of Representatives,100,0,0,0
-NH-02,New Hampshire,Ann Kuster,Ann McLane Kuster,@RepAnnieKuster,D,House of Representatives,74,0,0,0
-MD-04,Maryland,Anthony Brown,Anthony G. Brown,@RepAnthonyBrown,D,House of Representatives,90,0,0,0
-ND,North Dakota,Large Armstrong,Kelly Armstrong,@RepArmstrongND,R,House of Representatives,73,0,0,0
-TX-19,Texas,Jodey Arrington,Jodey Arrington,@RepArrington,R,House of Representatives,100,0,0,0
-OH-12,Ohio,Troy Balderson,Troy Balderson,@RepBalderson,R,House of Representatives,100,0,0,0
-CA-44,California,Nanette BarragÃ¡n,Nanette Barragán,@RepBarragan,D,House of Representatives,91,0,0,0
-OH-03,Ohio,Joyce Beatty,Joyce Beatty,@RepBeatty,D,House of Representatives,100,0,0,0
-VA-06,Virginia,Ben Cline,Ben Cline,@RepBenCline,R,House of Representatives,100,0,0,0
-UT-04,Utah,Ben McAdams,Ben McAdams,@RepBenMcAdams,D,House of Representatives,100,0,0,0
-TX-17,Texas,Bill Flores,Bill Flores,@RepBillFlores,R,House of Representatives,100,0,0,0
-IL-11,Florida,Bill Foster,Bill Posey,@RepBillFoster,R,House of Representatives,76,1,0,0
-OH-06,Georgia,Bill Johnson,Hank Johnson,@RepBillJohnson,D,House of Representatives,67,2,0,0
-MO-03,Missouri,Blaine Luetkemeyer,Blaine Luetkemeyer,@RepBlaine,R,House of Representatives,100,0,0,0
-OH-07,Ohio,Bob Gibbs,Bob Gibbs,@RepBobGibbs,R,House of Representatives,100,0,0,0
-IL-01,Illinois,Bobby Rush,Bobby Rush,@RepBobbyRush,D,House of Representatives,100,0,0,0
-OR-01,Oregon,Suzanne Bonamici,Suzanne Bonamici,@RepBonamici,D,House of Representatives,100,0,0,0
-NJ-12,New Jersey,Bonnie Coleman,Bonnie Watson Coleman,@RepBonnie,D,House of Representatives,80,0,0,0
-IL-12,Illinois,Mike Bost,Mike Bost,@RepBost,R,House of Representatives,100,0,0,0
-OH-02,Ohio,Brad Wenstrup,Brad Wenstrup,@RepBradWenstrup,R,House of Representatives,100,0,0,0
-TX-36,Texas,Brian Babin,Brian Babin,@RepBrianBabin,R,House of Representatives,100,0,0,0
-PA-01,Arizona,Brian Fitzpatrick,Ann Kirkpatrick,@RepBrianFitz,D,House of Representatives,62,0,0,0
-NY-26,New York,Brian Higgins,Brian Higgins,@RepBrianHiggins,D,House of Representatives,100,0,0,0
-FL-18,Florida,Brian Mast,Brian Mast,@RepBrianMast,R,House of Representatives,100,0,0,0
-NY-22,New York,Anthony Brindisi,Anthony Brindisi,@RepBrindisi,D,House of Representatives,100,0,0,0
-WI-01,Wisconsin,Bryan Steil,Bryan Steil,@RepBryanSteil,R,House of Representatives,100,0,0,0
-GA-01,Missouri,Earl Carter,Emanuel Cleaver,@RepBuddyCarter,D,House of Representatives,62,1,1,0
-WV-03,New York,Carol Miller,Carolyn Maloney,@RepCarolMiller,D,House of Representatives,67,2,0,0
-PA-08,Pennsylvania,Matt Cartwright,Matt Cartwright,@RepCartwright,D,House of Representatives,100,0,0,0
-IL-06,Illinois,Sean Casten,Sean Casten,@RepCasten,D,House of Representatives,100,0,0,0
-FL-13,Florida,Charlie Crist,Charlie Crist,@RepCharlieCrist,D,House of Representatives,100,0,0,0
-IL-17,Illinois,Cheri Bustos,Cheri Bustos,@RepCheri,D,House of Representatives,100,0,0,0
-TX-21,Texas,Chip Roy,Chip Roy,@RepChipRoy,R,House of Representatives,100,0,0,0
-NY-27,Delaware,Chris Collins,Chris Coons,@RepChrisCollins,D,Senate,83,0,0,0
-NH-01,Delaware,Chris Pappas,Chris Coons,@RepChrisPappas,D,Senate,61,1,0,0
-TN-03,Tennessee,Charles Fleischmann,Chuck Fleischmann,@RepChuck,R,House of Representatives,78,0,0,0
-IL-04,Illinois,JesÃºs GarcÃ­a,"Jesús ""Chuy"" García",@RepChuyGarcia,D,House of Representatives,61,0,0,0
-IA-03,Iowa,Cynthia Axne,Cindy Axne,@RepCindyAxne,D,House of Representatives,64,0,0,0
-LA-03,Louisiana,Clay Higgins,Clay Higgins,@RepClayHiggins,R,House of Representatives,100,0,0,0
-TX-27,Texas,Michael Cloud,Michael Cloud,@RepCloudTX,R,House of Representatives,100,0,0,0
-TN-09,Tennessee,Steve Cohen,Steve Cohen,@RepCohen,D,House of Representatives,100,0,0,0
-TX-32,Texas,Colin Allred,Colin Allred,@RepColinAllred,D,House of Representatives,100,0,0,0
-PA-17,Pennsylvania,Conor Lamb,Conor Lamb,@RepConorLamb,D,House of Representatives,100,0,0,0
-TX-28,Texas,Henry Cuellar,Henry Cuellar,@RepCuellar,D,House of Representatives,100,0,0,0
-MD-07,Maryland,Elijah Cummings,Elijah Cummings,@RepCummings,D,House of Representatives,100,0,0,0
-CO-05,Colorado,Doug Lamborn,Doug Lamborn,@RepDLamborn,R,House of Representatives,100,0,0,0
-FL-26,Florida,Debbie Mucarsel-Powell,Debbie Mucarsel-Powell,@RepDMP,D,House of Representatives,100,0,0,0
-FL-23,Florida,Debbie Schultz,Debbie Wasserman Schultz,@RepDWStweets,D,House of Representatives,74,0,0,0
-TX-02,Texas,Dan Crenshaw,Dan Crenshaw,@RepDanCrenshaw,R,House of Representatives,100,0,0,0
-MI-05,Michigan,Daniel Kildee,Dan Kildee,@RepDanKildee,D,House of Representatives,87,0,0,0
-IL-07,Illinois,Danny Davis,Danny K. Davis,@RepDannyDavis,D,House of Representatives,88,0,0,0
-FL-09,Florida,Darren Soto,Darren Soto,@RepDarrenSoto,D,House of Representatives,100,0,0,0
-OH-14,North Carolina,David Joyce,David Rouzer,@RepDaveJoyce,R,House of Representatives,70,2,1,0
-NC-04,Georgia,David Price,David Perdue,@RepDavidEPrice,R,Senate,78,0,0,0
-TN-08,Tennessee,David Kustoff,David Kustoff,@RepDavidKustoff,R,House of Representatives,100,0,0,0
-NC-07,North Carolina,David Rouzer,David Rouzer,@RepDavidRouzer,R,House of Representatives,100,0,0,0
-MD-06,Maryland,David Trone,David Trone,@RepDavidTrone,D,House of Representatives,100,0,0,0
-KS-03,Kansas,Sharice Davids,Sharice Davids,@RepDavids,D,House of Representatives,100,0,0,0
-PA-04,Pennsylvania,Madeleine Dean,Madeleine Dean,@RepDean,D,House of Representatives,100,0,0,0
-MN-03,Minnesota,Dean Phillips,Dean Phillips,@RepDeanPhillips,D,House of Representatives,100,0,0,0
-MI-12,Michigan,Debbie Dingell,Debbie Dingell,@RepDebDingell,D,House of Representatives,100,0,0,0
-NM-01,New Mexico,Debra Haaland,Deb Haaland,@RepDebHaaland,D,House of Representatives,92,0,0,0
-WA-01,Washington,Suzan DelBene,Suzan DelBene,@RepDelBene,D,House of Representatives,100,0,0,0
-WA-10,Washington,Denny Heck,Denny Heck,@RepDennyHeck,D,House of Representatives,100,0,0,0
-WA-06,Washington,Derek Kilmer,Derek Kilmer,@RepDerekKilmer,D,House of Representatives,100,0,0,0
-CO-01,Colorado,Diana DeGette,Diana DeGette,@RepDianaDeGette,D,House of Representatives,100,0,0,0
-NE-02,Alaska,Don Bacon,Don Young,@RepDonBacon,R,House of Representatives,67,0,0,0
-VA-08,New Jersey,Donald Jr.,Donald Payne Jr.,@RepDonBeyer,D,House of Representatives,77,1,1,2
-NJ-10,New Jersey,Donald Jr.,Donald Payne Jr.,@RepDonaldPayne,D,House of Representatives,77,0,0,2
-GA-09,Maine,Doug Collins,Susan Collins,@RepDougCollins,R,Senate,72,0,0,0
-SD,Georgia,Large Johnson,Hank Johnson,@RepDustyJohnson,D,House of Representatives,72,1,0,0
-TX-30,Texas,Eddie Johnson,Eddie Bernice Johnson,@RepEBJ,D,House of Representatives,76,0,0,0
-HI-01,Hawaii,Case Case,Ed Case,@RepEdCase,D,House of Representatives,62,0,0,0
-VA-02,Virginia,Elaine Luria,Elaine Luria,@RepElaineLuria,D,House of Representatives,100,0,0,0
-NY-16,New York,Eliot Engel,Eliot Engel,@RepEliotEngel,D,House of Representatives,100,0,0,0
-TX-16,Texas,Veronica Escobar,Veronica Escobar,@RepEscobar,D,House of Representatives,100,0,0,0
-NY-13,New York,Adriano Espaillat,Adriano Espaillat,@RepEspaillat,D,House of Representatives,100,0,0,0
-TX-34,Texas,Filemon Vela,Filemon Vela Jr.,@RepFilemonVela,D,House of Representatives,86,0,0,0
-IA-01,Iowa,Abby Finkenauer,Abby Finkenauer,@RepFinkenauer,D,House of Representatives,100,0,0,0
-TX-07,Texas,Lizzie Fletcher,Lizzie Fletcher,@RepFletcher,D,House of Representatives,100,0,0,0
-OK-03,New Jersey,Frank Lucas,Frank Pallone,@RepFrankLucas,D,House of Representatives,58,2,0,0
-MI-06,Michigan,Fred Upton,Fred Upton,@RepFredUpton,R,House of Representatives,100,0,0,0
-LA-06,Louisiana,Garret Graves,Garret Graves,@RepGarretGraves,R,House of Representatives,100,0,0,0
-CA-39,California,Gilbert Cisneros,Gil Cisneros,@RepGilCisneros,D,House of Representatives,86,0,0,0
-ME-02,Maine,Jared Golden,Jared Golden,@RepGolden,D,House of Representatives,100,0,0,0
-TX-15,Ohio,Vicente Gonzalez,Anthony Gonzalez,@RepGonzalez,R,House of Representatives,69,2,0,0
-NY-06,New York,Grace Meng,Grace Meng,@RepGraceMeng,D,House of Representatives,100,0,0,0
-IN-06,Indiana,Greg Pence,Greg Pence,@RepGregPence,R,House of Representatives,100,0,0,0
-FL-17,Florida,Gregory Steube,Greg Steube,@RepGregSteube,R,House of Representatives,88,0,0,0
-NY-05,New York,Gregory Meeks,Gregory Meeks,@RepGregoryMeeks,D,House of Representatives,100,0,0,0
-WI-06,Wisconsin,Glenn Grothman,Glenn Grothman,@RepGrothman,R,House of Representatives,100,0,0,0
-FL-12,Florida,Gus Bilirakis,Gus Bilirakis,@RepGusBilirakis,R,House of Representatives,100,0,0,0
-KY-02,Kentucky,Brett Guthrie,Brett Guthrie,@RepGuthrie,R,House of Representatives,100,0,0,0
-WI-04,Wisconsin,Gwen Moore,Gwen Moore,@RepGwenMoore,D,House of Representatives,100,0,0,0
-MN-01,Minnesota,Jim Hagedorn,Jim Hagedorn,@RepHagedorn,R,House of Representatives,100,0,0,0
-KY-05,Kentucky,Harold Rogers,Hal Rogers,@RepHalRogers,R,House of Representatives,87,0,0,0
-MI-11,Michigan,Haley Stevens,Haley Stevens,@RepHaleyStevens,D,House of Representatives,100,0,0,0
-GA-04,Texas,Henry Jr.,Henry Cuellar,@RepHankJohnson,D,House of Representatives,64,1,0,0
-CA-48,California,Harley Rouda,Harley Rouda,@RepHarley,D,House of Representatives,100,0,0,0
-MO-04,Missouri,Vicky Hartzler,Vicky Hartzler,@RepHartzler,R,House of Representatives,100,0,0,0
-FL-20,Florida,Alcee Hastings,Alcee Hastings,@RepHastingsFL,D,House of Representatives,100,0,0,0
-NC-02,North Carolina,George Holding,George Holding,@RepHolding,R,House of Representatives,100,0,0,0
-NV-04,Nevada,Steven Horsford,Steven Horsford,@RepHorsford,D,House of Representatives,100,0,0,0
-PA-06,Pennsylvania,Chrissy Houlahan,Chrissy Houlahan,@RepHoulahan,D,House of Representatives,100,0,0,0
-MI-02,Michigan,Bill Huizenga,Bill Huizenga,@RepHuizenga,R,House of Representatives,100,0,0,0
-MI-01,Michigan,Jack Bergman,Jack Bergman,@RepJackBergman,R,House of Representatives,100,0,0,0
-CT-05,Connecticut,Jahana Hayes,Jahana Hayes,@RepJahanaHayes,D,House of Representatives,100,0,0,0
-CO-06,Colorado,Jason Crow,Jason Crow,@RepJasonCrow,D,House of Representatives,100,0,0,0
-MO-08,Minnesota,Jason Smith,Tina Smith,@RepJasonSmith,D,Senate,67,2,0,0
-WA-07,Washington,Pramila Jayapal,Pramila Jayapal,@RepJayapal,D,House of Representatives,100,0,0,0
-SC-03,Florida,Jeff Duncan,Neal Dunn,@RepJeffDuncan,R,House of Representatives,60,1,0,0
-NY-08,New York,Hakeem Jeffries,Hakeem Jeffries,@RepJeffries,D,House of Representatives,100,0,0,0
-NY-10,New York,Jerrold Nadler,Jerry Nadler,@RepJerryNadler,D,House of Representatives,85,0,0,0
-IN-04,Oklahoma,James Baird,James Lankford,@RepJimBaird,R,Senate,72,0,0,0
-IN-03,Indiana,Jim Banks,Jim Banks,@RepJimBanks,R,House of Representatives,100,0,0,0
-CA-34,California,Jimmy Gomez,Jimmy Gomez,@RepJimmyGomez,D,House of Representatives,100,0,0,0
-CT-02,Texas,Joe Courtney,John Cornyn,@RepJoeCourtney,R,Senate,70,0,0,0
-MA-04,Massachusetts,Joseph Kennedy,Joe Kennedy III,@RepJoeKennedy,D,House of Representatives,76,0,0,0
-NY-25,New York,Joseph Morelle,Joseph Morelle,@RepJoeMorelle,D,House of Representatives,100,0,0,0
-CO-02,Colorado,Joe Neguse,Joe Neguse,@RepJoeNeguse,D,House of Representatives,100,0,0,0
-SC-02,Florida,Joe Wilson,Frederica Wilson,@RepJoeWilson,D,House of Representatives,62,1,0,0
-UT-03,Georgia,John Curtis,John Lewis,@RepJohnCurtis,D,House of Representatives,67,2,0,0
-PA-13,North Dakota,John Joyce,John Hoeven,@RepJohnJoyce,R,Senate,67,1,0,0
-NY-24,New York,John Katko,John Katko,@RepJohnKatko,R,House of Representatives,100,0,0,0
-CT-01,Connecticut,John Larson,John B. Larson,@RepJohnLarson,D,House of Representatives,88,0,0,0
-TN-06,North Dakota,John Rose,John Hoeven,@RepJohnRose,R,Senate,70,0,0,0
-KY-03,Kentucky,John Yarmuth,John Yarmuth,@RepJohnYarmuth,D,House of Representatives,100,0,0,0
-NY-15,New York,JosÃ© Serrano,José E. Serrano,@RepJoseSerrano,D,House of Representatives,79,0,0,0
-NJ-05,New Jersey,Josh Gottheimer,Josh Gottheimer,@RepJoshG,D,House of Representatives,100,0,0,0
-CA-51,California,Juan Vargas,Juan Vargas,@RepJuanVargas,D,House of Representatives,100,0,0,0
-MA-05,Massachusetts,Katherine Clark,Katherine Clark,@RepKClark,D,House of Representatives,100,0,0,0
-CA-37,California,Karen Bass,Karen Bass,@RepKarenBass,D,House of Representatives,100,0,0,0
-NY-04,New York,Kathleen Rice,Kathleen Rice,@RepKathleenRice,D,House of Representatives,100,0,0,0
-CA-45,California,Katie Porter,Katie Porter,@RepKatiePorter,D,House of Representatives,100,0,0,0
-TX-12,Texas,Kay Granger,Kay Granger,@RepKayGranger,R,House of Representatives,100,0,0,0
-CO-04,Colorado,Ken Buck,Ken Buck,@RepKenBuck,R,House of Representatives,100,0,0,0
-TX-24,Texas,Kenny Marchant,Kenny Marchant,@RepKenMarchant,R,House of Representatives,100,0,0,0
-OK-05,Oklahoma,Kendra Horn,Kendra Horn,@RepKendraHorn,D,House of Representatives,100,0,0,0
-TX-08,Texas,Kevin Brady,Kevin Brady,@RepKevinBrady,R,House of Representatives,100,0,0,0
-WA-08,Washington,Kim Schrier,Kim Schrier,@RepKimSchrier,D,House of Representatives,100,0,0,0
-IL-16,Illinois,Adam Kinzinger,Adam Kinzinger,@RepKinzinger,R,House of Representatives,100,0,0,0
-DE,Delaware,Large Rochester,Lisa Blunt Rochester,@RepLBR,D,House of Representatives,69,0,0,0
-IL-18,Illinois,Darin LaHood,Darin LaHood,@RepLaHood,R,House of Representatives,100,0,0,0
-TX-05,Texas,Lance Gooden,Lance Gooden,@RepLanceGooden,R,House of Representatives,100,0,0,0
-IN-08,Indiana,Larry Bucshon,Larry Bucshon,@RepLarryBucshon,R,House of Representatives,100,0,0,0
-MI-14,Michigan,Brenda Lawrence,Brenda Lawrence,@RepLawrence,D,House of Representatives,100,0,0,0
-NY-01,New York,Lee Zeldin,Lee Zeldin,@RepLeeZeldin,R,House of Representatives,100,0,0,0
-CA-38,California,Linda SÃ¡nchez,Linda Sánchez,@RepLindaSanchez,D,House of Representatives,89,0,0,0
-IL-03,Illinois,Daniel Lipinski,Dan Lipinski,@RepLipinski,D,House of Representatives,89,0,0,0
-WY,Wyoming,Large Cheney,Liz Cheney,@RepLizCheney,R,House of Representatives,73,0,0,0
-TX-35,Texas,Lloyd Doggett,Lloyd Doggett,@RepLloydDoggett,D,House of Representatives,100,0,0,0
-FL-21,Florida,Lois Frankel,Lois Frankel,@RepLoisFrankel,D,House of Representatives,100,0,0,0
-MA-03,Massachusetts,Lori Trahan,Lori Trahan,@RepLoriTrahan,D,House of Representatives,100,0,0,0
-CA-46,California,Luis Correa,Lou Correa,@RepLouCorrea,D,House of Representatives,86,0,0,0
-GA-11,Georgia,Barry Loudermilk,Barry Loudermilk,@RepLoudermilk,R,House of Representatives,100,0,0,0
-CA-47,California,Alan Lowenthal,Alan Lowenthal,@RepLowenthal,D,House of Representatives,100,0,0,0
-GA-06,Georgia,Lucy McBath,Lucy McBath,@RepLucyMcBath,D,House of Representatives,100,0,0,0
-PA-05,Pennsylvania,Mary Scanlon,Mary Gay Scanlon,@RepMGS,D,House of Representatives,86,0,0,0
-VA-09,Virginia,Morgan Griffith,Morgan Griffith,@RepMGriffith,R,House of Representatives,100,0,0,0
-NJ-07,New Jersey,Tom Malinowski,Tom Malinowski,@RepMalinowski,D,House of Representatives,100,0,0,0
-NY-12,New York,Carolyn Maloney,Carolyn Maloney,@RepMaloney,D,House of Representatives,100,0,0,0
-OH-11,Ohio,Marcia Fudge,Marcia Fudge,@RepMarciaFudge,D,House of Representatives,100,0,0,0
-OH-09,Ohio,Marcy Kaptur,Marcy Kaptur,@RepMarcyKaptur,D,House of Representatives,100,0,0,0
-TN-07,Tennessee,Mark Green,Mark E. Green,@RepMarkGreen,R,House of Representatives,87,0,0,0
-NC-11,Texas,Mark Meadows,Marc Veasey,@RepMarkMeadows,D,House of Representatives,61,1,1,0
-CA-41,California,Mark Takano,Mark Takano,@RepMarkTakano,D,House of Representatives,100,0,0,0
-NC-06,Virginia,Mark Walker,Mark Warner,@RepMarkWalker,D,Senate,82,0,0,0
-FL-01,Florida,Matt Gaetz,Matt Gaetz,@RepMattGaetz,R,House of Representatives,100,0,0,0
-NY-11,New York,Max Rose,Max Rose,@RepMaxRose,D,House of Representatives,100,0,0,0
-CA-43,California,Maxine Waters,Maxine Waters,@RepMaxineWaters,D,House of Representatives,100,0,0,0
-TX-10,Texas,Michael McCaul,Michael McCaul,@RepMcCaul,R,House of Representatives,100,0,0,0
-VA-04,Virginia,Donald McEachin,Donald McEachin,@RepMcEachin,D,House of Representatives,100,0,0,0
-MA-02,Maine,James McGovern,Jared Golden,@RepMcGovern,D,House of Representatives,62,2,0,0
-WV-01,West Virginia,David McKinley,David McKinley,@RepMcKinley,R,House of Representatives,100,0,0,0
-PA-09,Pennsylvania,Daniel Meuser,Dan Meuser,@RepMeuser,R,House of Representatives,87,0,0,0
-MS-03,Colorado,Michael Guest,Michael Bennet,@RepMichaelGuest,D,Senate,74,0,0,0
-FL-06,Florida,Michael Waltz,Michael Waltz,@RepMichaelWaltz,R,House of Representatives,100,0,0,0
-LA-04,Georgia,Mike Johnson,Hank Johnson,@RepMikeJohnson,D,House of Representatives,75,0,0,0
-CA-49,California,Mike Levin,Mike Levin,@RepMikeLevin,D,House of Representatives,100,0,0,0
-IL-05,Ohio,Mike Quigley,Mike Turner,@RepMikeQuigley,R,House of Representatives,61,1,0,0
-OH-10,Ohio,Michael Turner,Mike Turner,@RepMikeTurner,R,House of Representatives,80,0,0,0
-MI-04,Michigan,John Moolenaar,John Moolenaar,@RepMoolenaar,R,House of Representatives,100,0,0,0
-OK-02,Oklahoma,Markwayne Mullin,Markwayne Mullin,@RepMullin,R,House of Representatives,100,0,0,0
-WA-04,Washington,Dan Newhouse,Dan Newhouse,@RepNewhouse,R,House of Representatives,100,0,0,0
-MI-10,Kentucky,Paul Mitchell,Mitch McConnell,@RepPaulMitchell,R,Senate,57,1,0,0
-NY-20,New York,Paul Tonko,Paul Tonko,@RepPaulTonko,D,House of Representatives,100,0,0,0
-CO-07,Colorado,Perlmutter Perlmutter,Ed Perlmutter,@RepPerlmutter,D,House of Representatives,65,0,0,0
-CA-31,California,Pete Aguilar,Pete Aguilar,@RepPeteAguilar,D,House of Representatives,100,0,0,0
-NY-02,New York,Peter King,Peter T. King,@RepPeteKing,R,House of Representatives,87,0,0,0
-TX-22,Texas,Pete Olson,Pete Olson,@RepPeteOlson,R,House of Representatives,100,0,0,0
-MN-8,Minnesota,Pete Stauber,Pete Stauber,@RepPeteStauber,R,House of Representatives,100,0,0,0
-OR-04,Oregon,Peter DeFazio,Peter DeFazio,@RepPeterDeFazio,D,House of Representatives,100,0,0,0
-MA-07,Massachusetts,Ayanna Pressley,Ayanna Pressley,@RepPressley,D,House of Representatives,100,0,0,0
-TX-25,Mississippi,Roger Williams,Roger Wicker,@RepRWilliams,R,Senate,62,1,0,0
-SC-05,South Carolina,Ralph Norman,Ralph Norman,@RepRalphNorman,R,House of Representatives,100,0,0,0
-MI-13,Michigan,Rashida Tlaib,Rashida Tlaib,@RepRashida,D,House of Representatives,100,0,0,0
-MD-08,Maryland,Jamie Raskin,Jamie Raskin,@RepRaskin,D,House of Representatives,100,0,0,0
-TX-04,Missouri,John Ratcliffe,Josh Hawley,@RepRatcliffe,R,Senate,56,2,1,0
-NC-08,North Carolina,Richard Hudson,Richard Burr,@RepRichHudson,R,Senate,69,0,0,0
-MA-01,Massachusetts,Richard Neal,Richard Neal,@RepRichardNeal,D,House of Representatives,100,0,0,0
-LA-02,Louisiana,Cedric Richmond,Cedric Richmond,@RepRichmond,D,House of Representatives,100,0,0,0
-GA-12,Georgia,Rick Allen,Rick W. Allen,@RepRickAllen,R,House of Representatives,87,0,0,0
-WA-02,Washington,Rick Larsen,Rick Larsen,@RepRickLarsen,D,House of Representatives,100,0,0,0
-VA-05,Virginia,Denver Riggleman,Denver Riggleman,@RepRiggleman,R,House of Representatives,100,0,0,0
-UT-01,Utah,Rob Bishop,Rob Bishop,@RepRobBishop,R,House of Representatives,100,0,0,0
-GA-07,Georgia,Rob Woodall,Rob Woodall,@RepRobWoodall,R,House of Representatives,100,0,0,0
-IL-02,Illinois,Robin Kelly,Robin Kelly,@RepRobinKelly,D,House of Representatives,100,0,0,0
-KS-04,Kansas,Ron Estes,Ron Estes,@RepRonEstes,R,House of Representatives,100,0,0,0
-WI-03,Wisconsin,Ron Kind,Ron Kind,@RepRonKind,D,House of Representatives,100,0,0,0
-TX-06,Virginia,Ron Wright,Rob Wittman,@RepRonWright,R,House of Representatives,57,2,0,0
-FL-19,Florida,Francis Rooney,Francis Rooney,@RepRooney,R,House of Representatives,100,0,0,0
-CA-40,California,Lucille Roybal-Allard,Lucille Roybal-Allard,@RepRoybalAllard,D,House of Representatives,100,0,0,0
-ID-01,Idaho,Russ Fulcher,Russ Fulcher,@RepRussFulcher,R,House of Representatives,100,0,0,0
-MO-06,Missouri,Sam Graves,Sam Graves,@RepSamGraves,R,House of Representatives,100,0,0,0
-MD-03,Maryland,John Sarbanes,John Sarbanes,@RepSarbanes,D,House of Representatives,100,0,0,0
-IL-10,Illinois,Bradley Schneider,Brad Schneider,@RepSchneider,D,House of Representatives,90,0,0,0
-OR-05,Oregon,Kurt Schrader,Kurt Schrader,@RepSchrader,D,House of Representatives,100,0,0,0
-PA-10,Tennessee,Scott Perry,Scott DesJarlais,@RepScottPerry,R,House of Representatives,59,2,0,0
-CA-52,Tennessee,Scott Peters,Scott DesJarlais,@RepScottPeters,R,House of Representatives,64,1,0,0
-WI-07,Wisconsin,Sean Duffy,Sean Duffy,@RepSeanDuffy,R,House of Representatives,100,0,0,0
-NY-18,New York,Sean Maloney,Sean Patrick Maloney,@RepSeanMaloney,D,House of Representatives,75,0,0,0
-FL-27,Florida,Donna Shalala,Donna Shalala,@RepShalala,D,House of Representatives,100,0,0,0
-NJ-11,New Jersey,Mikie Sherrill,Mikie Sherrill,@RepSherrill,D,House of Representatives,100,0,0,0
-IL-15,Illinois,John Shimkus,John Shimkus,@RepShimkus,R,House of Representatives,100,0,0,0
-NJ-08,New Jersey,Albio Sires,Albio Sires,@RepSires,D,House of Representatives,100,0,0,0
-MI-08,Michigan,Elissa Slotkin,Elissa Slotkin,@RepSlotkin,D,House of Representatives,100,0,0,0
-PA-11,Pennsylvania,Lloyd Smucker,Lloyd Smucker,@RepSmucker,R,House of Representatives,100,0,0,0
-VA-07,Virginia,Abigail Spanberger,Abigail Spanberger,@RepSpanberger,D,House of Representatives,100,0,0,0
-NY-21,New York,Elise Stefanik,Elise Stefanik,@RepStefanik,R,House of Representatives,100,0,0,0
-FL-07,Florida,Stephanie Murphy,Stephanie Murphy,@RepStephMurphy,D,House of Representatives,100,0,0,0
-MA-08,Massachusetts,Stephen Lynch,Stephen F. Lynch,@RepStephenLynch,D,House of Representatives,90,0,0,0
-OH-01,Ohio,Steve Chabot,Steve Chabot,@RepSteveChabot,R,House of Representatives,100,0,0,0
-OH-15,Ohio,Steve Stivers,Steve Stivers,@RepSteveStivers,R,House of Representatives,100,0,0,0
-CA-53,Maine,Susan Davis,Susan Collins,@RepSusanDavis,R,Senate,67,2,0,0
-PA-07,Pennsylvania,Susan Wilk,Susan Wild,@RepSusanWild,D,House of Representatives,90,0,0,0
-NV-03,Nevada,Susie Lee,Susie Lee,@RepSusieLee,D,House of Representatives,100,0,0,0
-TX-29,Texas,Sylvia Garcia,Sylvia Garcia,@RepSylviaGarcia,D,House of Representatives,100,0,0,0
-NC-13,North Carolina,Ted Budd,Ted Budd,@RepTedBudd,R,House of Representatives,100,0,0,0
-FL-22,Florida,Theodore Deutch,Ted Deutch,@RepTedDeutch,D,House of Representatives,80,0,0,0
-CA-33,California,Ted Lieu,Ted Lieu,@RepTedLieu,D,House of Representatives,100,0,0,0
-FL-03,Florida,Ted Yoho,Ted Yoho,@RepTedYoho,R,House of Representatives,100,0,0,0
-KY-04,Kentucky,Thomas Massie,Thomas Massie,@RepThomasMassie,R,House of Representatives,100,0,0,0
-TN-02,Tennessee,Tim Burchett,Tim Burchett,@RepTimBurchett,R,House of Representatives,100,0,0,0
-OH-13,Virginia,Tim Ryan,Tim Kaine,@RepTimRyan,D,Senate,71,0,0,0
-CO-03,Colorado,Scott Tipton,Scott Tipton,@RepTipton,R,House of Representatives,100,0,0,0
-MN-06,Minnesota,Tom Emmer,Tom Emmer,@RepTomEmmer,R,House of Representatives,100,0,0,0
-GA-14,Georgia,Tom Graves,Tom Graves,@RepTomGraves,R,House of Representatives,100,0,0,0
-NY-23,South Carolina,Tom Reed,Tom Rice,@RepTomReed,R,House of Representatives,75,1,0,0
-SC-07,South Carolina,Tom Rice,Tom Rice,@RepTomRice,R,House of Representatives,100,0,0,0
-NY-03,New York,Thomas Suozzi,Thomas Suozzi,@RepTomSuozzi,D,House of Representatives,100,0,0,0
-NM-02,New Mexico,Xochitl Small,Xochitl Torres Small,@RepTorresSmall,D,House of Representatives,79,0,0,0
-MS-01,Mississippi,Trent Kelly,Trent Kelly,@RepTrentKelly,R,House of Representatives,100,0,0,0
-IN-09,Indiana,Trey Hollingsworth,Trey Hollingsworth,@RepTrey,R,House of Representatives,100,0,0,0
-IL-14,Illinois,Lauren Underwood,Lauren Underwood,@RepUnderwood,D,House of Representatives,100,0,0,0
-FL-10,Florida,Val Demings,Val Demings,@RepValDemings,D,House of Representatives,100,0,0,0
-TX-03,Texas,Van Taylor,Van Taylor,@RepVanTaylor,R,House of Representatives,100,0,0,0
-TX-33,Texas,Marc Veasey,Marc Veasey,@RepVeasey,D,House of Representatives,100,0,0,0
-IN-01,Indiana,Peter Visclosky,Pete Visclosky,@RepVisclosky,D,House of Representatives,97,0,0,0
-MI-07,Michigan,Tim Walberg,Tim Walberg,@RepWalberg,R,House of Representatives,100,0,0,0
-IN-02,Indiana,Jackie Walorski,Jackie Walorski,@RepWalorski,R,House of Representatives,100,0,0,0
-NC-03,North Carolina,Walter Jones,Walter B. Jones Jr.,@RepWalterJones,R,House of Representatives,77,0,0,0
-FL-11,Texas,Daniel Webster,Randy Weber,@RepWebster,R,House of Representatives,64,1,0,0
-VA-10,Virginia,Jennifer Wexton,Jennifer Wexton,@RepWexton,D,House of Representatives,100,0,0,0
-FL-24,Florida,Frederica Wilson,Frederica Wilson,@RepWilson,D,House of Representatives,100,0,0,0
-NY-09,New York,Yvette Clarke,Yvette Clarke,@RepYvetteClarke,D,House of Representatives,100,0,0,0
-CA-50,California,Duncan Hunter,Duncan D. Hunter,@Rep_Hunter,R,House of Representatives,90,0,0,0
-VA-01,Virginia,Robert Wittman,Rob Wittman,@RobWittman,R,House of Representatives,88,0,0,0
-IL-13,Illinois,Rodney Davis,Danny K. Davis,@RodneyDavis,D,House of Representatives,62,2,0,0
-GA-02,Georgia,Sanford Bishop,Sanford Bishop,@SanfordBishop,D,House of Representatives,100,0,0,0
+MD02,Maryland,Dutch Ruppersberger,Dutch Ruppersberger,@Call_Me_Dutch,D,House of Representatives,100,0,0,0
+TX11,Texas,Michael Conaway,Mike Conaway,@ConawayTX11,R,House of Representatives,81,0,0,0
+PA02,Pennsylvania,Brendan Boyle,Brendan Boyle,@CongBoyle,D,House of Representatives,100,0,0,0
+ID02,Idaho,Michael Simpson,Mike Simpson,@CongMikeSimpson,R,House of Representatives,81,0,0,0
+MS04,Mississippi,Steven Palazzo,Steven Palazzo,@CongPalazzo,R,House of Representatives,100,0,0,0
+PA15,Mississippi,Glenn Thompson,Bennie Thompson,@CongressmanGT,D,House of Representatives,83,1,0,0
+GA10,Georgia,Jody Hice,Jody Hice,@CongressmanHice,R,House of Representatives,100,0,0,0
+NJ02,New Jersey,Jefferson Dress,Jeff Van Drew,@CongressmanJVD,D,House of Representatives,64,0,0,0
+IL08,Illinois,Raja Krishnamoorthi,Raja Krishnamoorthi,@CongressmanRaja,D,House of Representatives,100,0,0,0
+TN04,Tennessee,Scott DesJarlais,Scott DesJarlais,@DesJarlaisTN04,R,House of Representatives,100,0,0,0
+NJ01,New Jersey,Donald Norcross,Donald Norcross,@DonaldNorcross,D,House of Representatives,100,0,0,0
+FL02,Florida,Neal Dunn,Neal Dunn,@DrNealDunnFL2,R,House of Representatives,100,0,0,0
+TN01,North Carolina,David Roe,David Rouzer,@DrPhilRoe,R,House of Representatives,86,1,0,0
+NC01,North Carolina,Butterfield Butterfield,G. K. Butterfield,@GKButterfield,D,House of Representatives,60,0,0,0
+PA14,Pennsylvania,Guy Reschenthaler,Guy Reschenthaler,@GReschenthaler,R,House of Representatives,100,0,0,0
+VA11,Virginia,Gerald Connolly,Gerry Connolly,@GerryConnolly,D,House of Representatives,83,0,0,0
+WA03,Washington,Jaime Beutler,Jaime Herrera Beutler,@HerreraBeutler,R,House of Representatives,76,0,0,0
+TX23,Texas,Will Hurd,Will Hurd,@HurdOnTheHill,R,House of Representatives,100,0,0,0
+MN05,Minnesota,Ilhan Omar,Ilhan Omar,@Ilhan,D,House of Representatives,100,0,0,0
+TX18,Texas,Sheila Lee,Sheila Jackson Lee,@JacksonLeeTX18,D,House of Representatives,71,0,0,0
+NE01,Nebraska,Jeff Fortenberry,Jeff Fortenberry,@JeffFortenberry,R,House of Representatives,100,0,0,0
+RI02,Rhode Island,James Langevin,James Langevin,@JimLangevin,D,House of Representatives,100,0,0,0
+WI05,Pennsylvania,James Jr.,Bob Casey Jr.,@JimPressOffice,D,Senate,55,1,1,0
+OH04,Minnesota,Jim Jordan,Jim Hagedorn,@Jim_Jordan,R,House of Representatives,64,1,0,0
+TX20,Texas,Joaquin Castro,Joaquin Castro,@JoaquinCastrotx,D,House of Representatives,100,0,0,0
+TX31,California,John Carter,Josh Harder,@JudgeCarter,D,House of Representatives,73,0,0,0
+CA42,California,Ken Calvert,Ken Calvert,@KenCalvert,R,House of Representatives,100,0,0,0
+MO01,Missouri,Wm. Clay,Lacy Clay,@LacyClayMO1,D,House of Representatives,59,0,0,0
+MD05,Maryland,Steny Hoyer,Steny Hoyer,@LeaderHoyer,D,House of Representatives,100,0,0,0
+TX13,Texas,Mac Thornberry,Mac Thornberry,@MacTXPress,R,House of Representatives,100,0,0,0
+FL25,Florida,Mario DiazBalart,Mario Díaz-Balart,@MarioDB,R,House of Representatives,91,0,0,0
+NV02,Nevada,Mark Amodei,Mark Amodei,@MarkAmodeiNV2,R,House of Representatives,100,0,0,0
+PA16,Arizona,Mike Kelly,Mark Kelly,@MikeKellyPA,D,Senate,80,0,0,0
+NY17,New York,Nita Lowey,Nita Lowey,@NitaLowey,D,House of Representatives,100,0,0,0
+CA35,California,Norma Torres,Norma Torres,@NormaJTorres,D,House of Representatives,100,0,0,0
+NY07,New York,Nydia VelÃ¡zquez,Nydia Velázquez,@NydiaVelazquez,D,House of Representatives,90,0,0,0
+NC10,North Carolina,Patrick McHenry,Patrick McHenry,@PatrickMcHenry,R,House of Representatives,100,0,0,0
+VT,Vermont,Peter Welch,Peter Welch,@PeterWelch,D,House of Representatives,100,0,0,0
+OH16,Ohio,Anthony Gonzalez,Anthony Gonzalez,@RepAGonzalez,R,House of Representatives,100,0,0,0
+NY14,New York,Alexandria OcasioCortez,Alexandria Ocasio-Cortez,@RepAOC,D,House of Representatives,98,0,0,0
+LA05,South Carolina,Ralph Abraham,Ralph Norman,@RepAbraham,R,House of Representatives,64,1,0,0
+WA09,Minnesota,Adam Smith,Tina Smith,@RepAdamSmith,D,Senate,70,1,0,0
+NC12,North Carolina,Alma Adams,Alma Adams,@RepAdams,D,House of Representatives,100,0,0,0
+NE03,Minnesota,Adrian Smith,Tina Smith,@RepAdrianSmith,D,Senate,73,0,0,0
+TX09,Tennessee,Green Green,Mark E. Green,@RepAlGreen,R,House of Representatives,58,1,1,0
+FL05,Florida,"Lawson, Jr.",Al Lawson,@RepAlLawsonJr,D,House of Representatives,60,1,0,0
+WV02,West Virginia,Alexander Mooney,Alex Mooney,@RepAlexMooney,R,House of Representatives,81,0,0,0
+IN07,Indiana,AndrÃ© Carson,André Carson,@RepAndreCarson,D,House of Representatives,88,0,0,0
+KY06,Arizona,Andy Barr,Andy Biggs,@RepAndyBarr,R,House of Representatives,63,2,0,0
+MD01,Arizona,Andy Harris,Andy Biggs,@RepAndyHarrisMD,R,House of Representatives,67,0,0,0
+NJ03,Arizona,Andy Kim,Andy Biggs,@RepAndyKimNJ,R,House of Representatives,67,1,0,0
+MI09,Michigan,Sander Levin,Andy Levin,@RepAndyLevin,D,House of Representatives,73,0,0,0
+MN02,Minnesota,Angie Craig,Angie Craig,@RepAngieCraig,D,House of Representatives,100,0,0,0
+MO2,Missouri,Ann Wagner,Ann Wagner,@RepAnnWagner,R,House of Representatives,100,0,0,0
+NH02,New Hampshire,Ann Kuster,Ann McLane Kuster,@RepAnnieKuster,D,House of Representatives,74,0,0,0
+MD04,Maryland,Anthony Brown,Anthony G. Brown,@RepAnthonyBrown,D,House of Representatives,90,0,0,0
+ND,North Dakota,Kelly Armstrong,Kelly Armstrong,@RepArmstrongND,R,House of Representatives,100,0,0,0
+TX19,Texas,Jodey Arrington,Jodey Arrington,@RepArrington,R,House of Representatives,100,0,0,0
+OH12,Ohio,Troy Balderson,Troy Balderson,@RepBalderson,R,House of Representatives,100,0,0,0
+CA44,California,Nanette BarragÃ¡n,Nanette Barragán,@RepBarragan,D,House of Representatives,91,0,0,0
+OH03,Ohio,Joyce Beatty,Joyce Beatty,@RepBeatty,D,House of Representatives,100,0,0,0
+VA06,Virginia,Ben Cline,Ben Cline,@RepBenCline,R,House of Representatives,100,0,0,0
+UT04,Utah,Ben McAdams,Ben McAdams,@RepBenMcAdams,D,House of Representatives,100,0,0,0
+TX17,Texas,Bill Flores,Bill Flores,@RepBillFlores,R,House of Representatives,100,0,0,0
+IL11,Florida,Bill Foster,Bill Posey,@RepBillFoster,R,House of Representatives,76,1,0,0
+OH06,Georgia,Bill Johnson,Hank Johnson,@RepBillJohnson,D,House of Representatives,67,1,0,0
+MO03,Missouri,Blaine Luetkemeyer,Blaine Luetkemeyer,@RepBlaine,R,House of Representatives,100,0,0,0
+OH07,Ohio,Bob Gibbs,Bob Gibbs,@RepBobGibbs,R,House of Representatives,100,0,0,0
+IL01,Illinois,Bobby Rush,Bobby Rush,@RepBobbyRush,D,House of Representatives,100,0,0,0
+OR01,Oregon,Suzanne Bonamici,Suzanne Bonamici,@RepBonamici,D,House of Representatives,100,0,0,0
+NJ12,New Jersey,Bonnie Coleman,Bonnie Watson Coleman,@RepBonnie,D,House of Representatives,80,0,0,0
+IL12,Illinois,Mike Bost,Mike Bost,@RepBost,R,House of Representatives,100,0,0,0
+OH02,Ohio,Brad Wenstrup,Brad Wenstrup,@RepBradWenstrup,R,House of Representatives,100,0,0,0
+TX36,Texas,Brian Babin,Brian Babin,@RepBrianBabin,R,House of Representatives,100,0,0,0
+PA01,Arizona,Brian Fitzpatrick,Ann Kirkpatrick,@RepBrianFitz,D,House of Representatives,62,0,0,0
+NY26,New York,Brian Higgins,Brian Higgins,@RepBrianHiggins,D,House of Representatives,100,0,0,0
+FL18,Florida,Brian Mast,Brian Mast,@RepBrianMast,R,House of Representatives,100,0,0,0
+NY22,New York,Anthony Brindisi,Anthony Brindisi,@RepBrindisi,D,House of Representatives,100,0,0,0
+WI01,Wisconsin,Bryan Steil,Bryan Steil,@RepBryanSteil,R,House of Representatives,100,0,0,0
+GA01,Missouri,Earl Carter,Emanuel Cleaver,@RepBuddyCarter,D,House of Representatives,62,1,1,0
+WV03,New York,Carol Miller,Carolyn Maloney,@RepCarolMiller,D,House of Representatives,67,2,0,0
+PA08,Pennsylvania,Matt Cartwright,Matt Cartwright,@RepCartwright,D,House of Representatives,100,0,0,0
+IL06,Illinois,Sean Casten,Sean Casten,@RepCasten,D,House of Representatives,100,0,0,0
+FL13,Florida,Charlie Crist,Charlie Crist,@RepCharlieCrist,D,House of Representatives,100,0,0,0
+IL17,Illinois,Cheri Bustos,Cheri Bustos,@RepCheri,D,House of Representatives,100,0,0,0
+TX21,Texas,Chip Roy,Chip Roy,@RepChipRoy,R,House of Representatives,100,0,0,0
+NY27,Delaware,Chris Collins,Chris Coons,@RepChrisCollins,D,Senate,83,0,0,0
+NH01,Delaware,Chris Pappas,Chris Coons,@RepChrisPappas,D,Senate,61,1,0,0
+TN03,Tennessee,Charles Fleischmann,Chuck Fleischmann,@RepChuck,R,House of Representatives,78,0,0,0
+IL04,Illinois,JesÃºs GarcÃ­a,"Jesús ""Chuy"" García",@RepChuyGarcia,D,House of Representatives,61,0,0,0
+IA03,Iowa,Cynthia Axne,Cindy Axne,@RepCindyAxne,D,House of Representatives,64,0,0,0
+LA03,Louisiana,Clay Higgins,Clay Higgins,@RepClayHiggins,R,House of Representatives,100,0,0,0
+TX27,Texas,Michael Cloud,Michael Cloud,@RepCloudTX,R,House of Representatives,100,0,0,0
+TN09,Tennessee,Steve Cohen,Steve Cohen,@RepCohen,D,House of Representatives,100,0,0,0
+TX32,Texas,Colin Allred,Colin Allred,@RepColinAllred,D,House of Representatives,100,0,0,0
+PA17,Pennsylvania,Conor Lamb,Conor Lamb,@RepConorLamb,D,House of Representatives,100,0,0,0
+TX28,Texas,Henry Cuellar,Henry Cuellar,@RepCuellar,D,House of Representatives,100,0,0,0
+MD07,Maryland,Elijah Cummings,Elijah Cummings,@RepCummings,D,House of Representatives,100,0,0,0
+CO05,Colorado,Doug Lamborn,Doug Lamborn,@RepDLamborn,R,House of Representatives,100,0,0,0
+FL26,Florida,Debbie MucarselPowell,Debbie Mucarsel-Powell,@RepDMP,D,House of Representatives,98,0,0,0
+FL23,Florida,Debbie Schultz,Debbie Wasserman Schultz,@RepDWStweets,D,House of Representatives,74,0,0,0
+TX02,Texas,Dan Crenshaw,Dan Crenshaw,@RepDanCrenshaw,R,House of Representatives,100,0,0,0
+MI05,Michigan,Daniel Kildee,Dan Kildee,@RepDanKildee,D,House of Representatives,87,0,0,0
+IL07,Illinois,Danny Davis,Danny K. Davis,@RepDannyDavis,D,House of Representatives,88,0,0,0
+FL09,Florida,Darren Soto,Darren Soto,@RepDarrenSoto,D,House of Representatives,100,0,0,0
+OH14,North Carolina,David Joyce,David Rouzer,@RepDaveJoyce,R,House of Representatives,70,2,1,0
+NC04,Georgia,David Price,David Perdue,@RepDavidEPrice,R,Senate,78,0,0,0
+TN08,Tennessee,David Kustoff,David Kustoff,@RepDavidKustoff,R,House of Representatives,100,0,0,0
+NC07,North Carolina,David Rouzer,David Rouzer,@RepDavidRouzer,R,House of Representatives,100,0,0,0
+MD06,Maryland,David Trone,David Trone,@RepDavidTrone,D,House of Representatives,100,0,0,0
+KS03,Kansas,Sharice Davids,Sharice Davids,@RepDavids,D,House of Representatives,100,0,0,0
+PA04,Pennsylvania,Madeleine Dean,Madeleine Dean,@RepDean,D,House of Representatives,100,0,0,0
+MN03,Minnesota,Dean Phillips,Dean Phillips,@RepDeanPhillips,D,House of Representatives,100,0,0,0
+MI12,Michigan,Debbie Dingell,Debbie Dingell,@RepDebDingell,D,House of Representatives,100,0,0,0
+NM01,New Mexico,Debra Haaland,Deb Haaland,@RepDebHaaland,D,House of Representatives,92,0,0,0
+WA01,Washington,Suzan DelBene,Suzan DelBene,@RepDelBene,D,House of Representatives,100,0,0,0
+WA10,Washington,Denny Heck,Denny Heck,@RepDennyHeck,D,House of Representatives,100,0,0,0
+WA06,Washington,Derek Kilmer,Derek Kilmer,@RepDerekKilmer,D,House of Representatives,100,0,0,0
+CO01,Colorado,Diana DeGette,Diana DeGette,@RepDianaDeGette,D,House of Representatives,100,0,0,0
+NE02,Alaska,Don Bacon,Don Young,@RepDonBacon,R,House of Representatives,67,0,0,0
+VA08,New Jersey,Donald Jr.,Donald Payne Jr.,@RepDonBeyer,D,House of Representatives,77,1,1,2
+NJ10,New Jersey,Donald Jr.,Donald Payne Jr.,@RepDonaldPayne,D,House of Representatives,77,0,0,2
+GA09,Maine,Doug Collins,Susan Collins,@RepDougCollins,R,Senate,72,0,0,0
+SD,South Dakota,Dusty Johnson,Dusty Johnson,@RepDustyJohnson,R,House of Representatives,100,0,0,0
+TX30,Texas,Eddie Johnson,Eddie Bernice Johnson,@RepEBJ,D,House of Representatives,76,0,0,0
+HI01,Hawaii,Case Case,Ed Case,@RepEdCase,D,House of Representatives,62,0,0,0
+VA02,Virginia,Elaine Luria,Elaine Luria,@RepElaineLuria,D,House of Representatives,100,0,0,0
+NY16,New York,Eliot Engel,Eliot Engel,@RepEliotEngel,D,House of Representatives,100,0,0,0
+TX16,Texas,Veronica Escobar,Veronica Escobar,@RepEscobar,D,House of Representatives,100,0,0,0
+NY13,New York,Adriano Espaillat,Adriano Espaillat,@RepEspaillat,D,House of Representatives,100,0,0,0
+TX34,Texas,Filemon Vela,Filemon Vela Jr.,@RepFilemonVela,D,House of Representatives,86,0,0,0
+IA01,Iowa,Abby Finkenauer,Abby Finkenauer,@RepFinkenauer,D,House of Representatives,100,0,0,0
+TX07,Texas,Lizzie Fletcher,Lizzie Fletcher,@RepFletcher,D,House of Representatives,100,0,0,0
+OK03,New Jersey,Frank Lucas,Frank Pallone,@RepFrankLucas,D,House of Representatives,58,2,0,0
+MI06,Michigan,Fred Upton,Fred Upton,@RepFredUpton,R,House of Representatives,100,0,0,0
+LA06,Louisiana,Garret Graves,Garret Graves,@RepGarretGraves,R,House of Representatives,100,0,0,0
+CA39,California,Gilbert Cisneros,Gil Cisneros,@RepGilCisneros,D,House of Representatives,86,0,0,0
+ME02,Maine,Jared Golden,Jared Golden,@RepGolden,D,House of Representatives,100,0,0,0
+TX15,Ohio,Vicente Gonzalez,Anthony Gonzalez,@RepGonzalez,R,House of Representatives,69,2,0,0
+NY06,New York,Grace Meng,Grace Meng,@RepGraceMeng,D,House of Representatives,100,0,0,0
+IN06,Indiana,Greg Pence,Greg Pence,@RepGregPence,R,House of Representatives,100,0,0,0
+FL17,Florida,Gregory Steube,Greg Steube,@RepGregSteube,R,House of Representatives,88,0,0,0
+NY05,New York,Gregory Meeks,Gregory Meeks,@RepGregoryMeeks,D,House of Representatives,100,0,0,0
+WI06,Wisconsin,Glenn Grothman,Glenn Grothman,@RepGrothman,R,House of Representatives,100,0,0,0
+FL12,Florida,Gus Bilirakis,Gus Bilirakis,@RepGusBilirakis,R,House of Representatives,100,0,0,0
+KY02,Kentucky,Brett Guthrie,Brett Guthrie,@RepGuthrie,R,House of Representatives,100,0,0,0
+WI04,Wisconsin,Gwen Moore,Gwen Moore,@RepGwenMoore,D,House of Representatives,100,0,0,0
+MN01,Minnesota,Jim Hagedorn,Jim Hagedorn,@RepHagedorn,R,House of Representatives,100,0,0,0
+KY05,Kentucky,Harold Rogers,Hal Rogers,@RepHalRogers,R,House of Representatives,87,0,0,0
+MI11,Michigan,Haley Stevens,Haley Stevens,@RepHaleyStevens,D,House of Representatives,100,0,0,0
+GA04,Texas,Henry Jr.,Henry Cuellar,@RepHankJohnson,D,House of Representatives,64,1,0,0
+CA48,California,Harley Rouda,Harley Rouda,@RepHarley,D,House of Representatives,100,0,0,0
+MO04,Missouri,Vicky Hartzler,Vicky Hartzler,@RepHartzler,R,House of Representatives,100,0,0,0
+FL20,Florida,Alcee Hastings,Alcee Hastings,@RepHastingsFL,D,House of Representatives,100,0,0,0
+NC02,North Carolina,George Holding,George Holding,@RepHolding,R,House of Representatives,100,0,0,0
+NV04,Nevada,Steven Horsford,Steven Horsford,@RepHorsford,D,House of Representatives,100,0,0,0
+PA06,Pennsylvania,Chrissy Houlahan,Chrissy Houlahan,@RepHoulahan,D,House of Representatives,100,0,0,0
+MI02,Michigan,Bill Huizenga,Bill Huizenga,@RepHuizenga,R,House of Representatives,100,0,0,0
+MI01,Michigan,Jack Bergman,Jack Bergman,@RepJackBergman,R,House of Representatives,100,0,0,0
+CT05,Connecticut,Jahana Hayes,Jahana Hayes,@RepJahanaHayes,D,House of Representatives,100,0,0,0
+CO06,Colorado,Jason Crow,Jason Crow,@RepJasonCrow,D,House of Representatives,100,0,0,0
+MO08,Minnesota,Jason Smith,Tina Smith,@RepJasonSmith,D,Senate,67,2,0,0
+WA07,Washington,Pramila Jayapal,Pramila Jayapal,@RepJayapal,D,House of Representatives,100,0,0,0
+SC03,Florida,Jeff Duncan,Neal Dunn,@RepJeffDuncan,R,House of Representatives,60,1,0,0
+NY08,New York,Hakeem Jeffries,Hakeem Jeffries,@RepJeffries,D,House of Representatives,100,0,0,0
+NY10,New York,Jerrold Nadler,Jerry Nadler,@RepJerryNadler,D,House of Representatives,85,0,0,0
+IN04,Oklahoma,James Baird,James Lankford,@RepJimBaird,R,Senate,72,0,0,0
+IN03,Indiana,Jim Banks,Jim Banks,@RepJimBanks,R,House of Representatives,100,0,0,0
+CA34,California,Jimmy Gomez,Jimmy Gomez,@RepJimmyGomez,D,House of Representatives,100,0,0,0
+CT02,Texas,Joe Courtney,John Cornyn,@RepJoeCourtney,R,Senate,70,0,0,0
+MA04,Massachusetts,Joseph Kennedy,Joe Kennedy III,@RepJoeKennedy,D,House of Representatives,76,0,0,0
+NY25,New York,Joseph Morelle,Joseph Morelle,@RepJoeMorelle,D,House of Representatives,100,0,0,0
+CO02,Colorado,Joe Neguse,Joe Neguse,@RepJoeNeguse,D,House of Representatives,100,0,0,0
+SC02,Florida,Joe Wilson,Frederica Wilson,@RepJoeWilson,D,House of Representatives,62,1,0,0
+UT03,Georgia,John Curtis,John Lewis,@RepJohnCurtis,D,House of Representatives,67,2,0,0
+PA13,North Dakota,John Joyce,John Hoeven,@RepJohnJoyce,R,Senate,67,1,0,0
+NY24,New York,John Katko,John Katko,@RepJohnKatko,R,House of Representatives,100,0,0,0
+CT01,Connecticut,John Larson,John B. Larson,@RepJohnLarson,D,House of Representatives,88,0,0,0
+TN06,North Dakota,John Rose,John Hoeven,@RepJohnRose,R,Senate,70,0,0,0
+KY03,Kentucky,John Yarmuth,John Yarmuth,@RepJohnYarmuth,D,House of Representatives,100,0,0,0
+NY15,New York,JosÃ© Serrano,José E. Serrano,@RepJoseSerrano,D,House of Representatives,79,0,0,0
+NJ05,New Jersey,Josh Gottheimer,Josh Gottheimer,@RepJoshG,D,House of Representatives,100,0,0,0
+CA51,California,Juan Vargas,Juan Vargas,@RepJuanVargas,D,House of Representatives,100,0,0,0
+MA05,Massachusetts,Katherine Clark,Katherine Clark,@RepKClark,D,House of Representatives,100,0,0,0
+CA37,California,Karen Bass,Karen Bass,@RepKarenBass,D,House of Representatives,100,0,0,0
+NY04,New York,Kathleen Rice,Kathleen Rice,@RepKathleenRice,D,House of Representatives,100,0,0,0
+CA45,California,Katie Porter,Katie Porter,@RepKatiePorter,D,House of Representatives,100,0,0,0
+TX12,Texas,Kay Granger,Kay Granger,@RepKayGranger,R,House of Representatives,100,0,0,0
+CO04,Colorado,Ken Buck,Ken Buck,@RepKenBuck,R,House of Representatives,100,0,0,0
+TX24,Texas,Kenny Marchant,Kenny Marchant,@RepKenMarchant,R,House of Representatives,100,0,0,0
+OK05,Oklahoma,Kendra Horn,Kendra Horn,@RepKendraHorn,D,House of Representatives,100,0,0,0
+TX08,Texas,Kevin Brady,Kevin Brady,@RepKevinBrady,R,House of Representatives,100,0,0,0
+WA08,Washington,Kim Schrier,Kim Schrier,@RepKimSchrier,D,House of Representatives,100,0,0,0
+IL16,Illinois,Adam Kinzinger,Adam Kinzinger,@RepKinzinger,R,House of Representatives,100,0,0,0
+DE,Delaware,Lisa Rochester,Lisa Blunt Rochester,@RepLBR,D,House of Representatives,82,0,0,0
+IL18,Illinois,Darin LaHood,Darin LaHood,@RepLaHood,R,House of Representatives,100,0,0,0
+TX05,Texas,Lance Gooden,Lance Gooden,@RepLanceGooden,R,House of Representatives,100,0,0,0
+IN08,Indiana,Larry Bucshon,Larry Bucshon,@RepLarryBucshon,R,House of Representatives,100,0,0,0
+MI14,Michigan,Brenda Lawrence,Brenda Lawrence,@RepLawrence,D,House of Representatives,100,0,0,0
+NY01,New York,Lee Zeldin,Lee Zeldin,@RepLeeZeldin,R,House of Representatives,100,0,0,0
+CA38,California,Linda SÃ¡nchez,Linda Sánchez,@RepLindaSanchez,D,House of Representatives,89,0,0,0
+IL03,Illinois,Daniel Lipinski,Dan Lipinski,@RepLipinski,D,House of Representatives,89,0,0,0
+WY,Wyoming,Liz Cheney,Liz Cheney,@RepLizCheney,R,House of Representatives,100,0,0,0
+TX35,Texas,Lloyd Doggett,Lloyd Doggett,@RepLloydDoggett,D,House of Representatives,100,0,0,0
+FL21,Florida,Lois Frankel,Lois Frankel,@RepLoisFrankel,D,House of Representatives,100,0,0,0
+MA03,Massachusetts,Lori Trahan,Lori Trahan,@RepLoriTrahan,D,House of Representatives,100,0,0,0
+CA46,California,Luis Correa,Lou Correa,@RepLouCorrea,D,House of Representatives,86,0,0,0
+GA11,Georgia,Barry Loudermilk,Barry Loudermilk,@RepLoudermilk,R,House of Representatives,100,0,0,0
+CA47,California,Alan Lowenthal,Alan Lowenthal,@RepLowenthal,D,House of Representatives,100,0,0,0
+GA06,Georgia,Lucy McBath,Lucy McBath,@RepLucyMcBath,D,House of Representatives,100,0,0,0
+PA05,Pennsylvania,Mary Scanlon,Mary Gay Scanlon,@RepMGS,D,House of Representatives,86,0,0,0
+VA09,Virginia,Morgan Griffith,Morgan Griffith,@RepMGriffith,R,House of Representatives,100,0,0,0
+NJ07,New Jersey,Tom Malinowski,Tom Malinowski,@RepMalinowski,D,House of Representatives,100,0,0,0
+NY12,New York,Carolyn Maloney,Carolyn Maloney,@RepMaloney,D,House of Representatives,100,0,0,0
+OH11,Ohio,Marcia Fudge,Marcia Fudge,@RepMarciaFudge,D,House of Representatives,100,0,0,0
+OH09,Ohio,Marcy Kaptur,Marcy Kaptur,@RepMarcyKaptur,D,House of Representatives,100,0,0,0
+TN07,Tennessee,Mark Green,Mark E. Green,@RepMarkGreen,R,House of Representatives,87,0,0,0
+NC11,Texas,Mark Meadows,Marc Veasey,@RepMarkMeadows,D,House of Representatives,61,1,1,0
+CA41,California,Mark Takano,Mark Takano,@RepMarkTakano,D,House of Representatives,100,0,0,0
+NC06,Virginia,Mark Walker,Mark Warner,@RepMarkWalker,D,Senate,82,0,0,0
+FL01,Florida,Matt Gaetz,Matt Gaetz,@RepMattGaetz,R,House of Representatives,100,0,0,0
+NY11,New York,Max Rose,Max Rose,@RepMaxRose,D,House of Representatives,100,0,0,0
+CA43,California,Maxine Waters,Maxine Waters,@RepMaxineWaters,D,House of Representatives,100,0,0,0
+TX10,Texas,Michael McCaul,Michael McCaul,@RepMcCaul,R,House of Representatives,100,0,0,0
+VA04,Virginia,Donald McEachin,Donald McEachin,@RepMcEachin,D,House of Representatives,100,0,0,0
+MA02,Maine,James McGovern,Jared Golden,@RepMcGovern,D,House of Representatives,62,2,0,0
+WV01,West Virginia,David McKinley,David McKinley,@RepMcKinley,R,House of Representatives,100,0,0,0
+PA09,Pennsylvania,Daniel Meuser,Dan Meuser,@RepMeuser,R,House of Representatives,87,0,0,0
+MS03,Colorado,Michael Guest,Michael Bennet,@RepMichaelGuest,D,Senate,74,0,0,0
+FL06,Florida,Michael Waltz,Michael Waltz,@RepMichaelWaltz,R,House of Representatives,100,0,0,0
+LA04,Georgia,Mike Johnson,Hank Johnson,@RepMikeJohnson,D,House of Representatives,75,0,0,0
+CA49,California,Mike Levin,Mike Levin,@RepMikeLevin,D,House of Representatives,100,0,0,0
+IL05,Ohio,Mike Quigley,Mike Turner,@RepMikeQuigley,R,House of Representatives,61,1,0,0
+OH10,Ohio,Michael Turner,Mike Turner,@RepMikeTurner,R,House of Representatives,80,0,0,0
+MI04,Michigan,John Moolenaar,John Moolenaar,@RepMoolenaar,R,House of Representatives,100,0,0,0
+OK02,Oklahoma,Markwayne Mullin,Markwayne Mullin,@RepMullin,R,House of Representatives,100,0,0,0
+WA04,Washington,Dan Newhouse,Dan Newhouse,@RepNewhouse,R,House of Representatives,100,0,0,0
+MI10,Kentucky,Paul Mitchell,Mitch McConnell,@RepPaulMitchell,R,Senate,57,1,0,0
+NY20,New York,Paul Tonko,Paul Tonko,@RepPaulTonko,D,House of Representatives,100,0,0,0
+CO07,Colorado,Perlmutter Perlmutter,Ed Perlmutter,@RepPerlmutter,D,House of Representatives,65,0,0,0
+CA31,California,Pete Aguilar,Pete Aguilar,@RepPeteAguilar,D,House of Representatives,100,0,0,0
+NY02,New York,Peter King,Peter T. King,@RepPeteKing,R,House of Representatives,87,0,0,0
+TX22,Texas,Pete Olson,Pete Olson,@RepPeteOlson,R,House of Representatives,100,0,0,0
+MN8,Minnesota,Pete Stauber,Pete Stauber,@RepPeteStauber,R,House of Representatives,100,0,0,0
+OR04,Oregon,Peter DeFazio,Peter DeFazio,@RepPeterDeFazio,D,House of Representatives,100,0,0,0
+MA07,Massachusetts,Ayanna Pressley,Ayanna Pressley,@RepPressley,D,House of Representatives,100,0,0,0
+TX25,Mississippi,Roger Williams,Roger Wicker,@RepRWilliams,R,Senate,62,1,0,0
+SC05,South Carolina,Ralph Norman,Ralph Norman,@RepRalphNorman,R,House of Representatives,100,0,0,0
+MI13,Michigan,Rashida Tlaib,Rashida Tlaib,@RepRashida,D,House of Representatives,100,0,0,0
+MD08,Maryland,Jamie Raskin,Jamie Raskin,@RepRaskin,D,House of Representatives,100,0,0,0
+TX04,Missouri,John Ratcliffe,Josh Hawley,@RepRatcliffe,R,Senate,56,2,1,0
+NC08,North Carolina,Richard Hudson,Richard Burr,@RepRichHudson,R,Senate,69,0,0,0
+MA01,Massachusetts,Richard Neal,Richard Neal,@RepRichardNeal,D,House of Representatives,100,0,0,0
+LA02,Louisiana,Cedric Richmond,Cedric Richmond,@RepRichmond,D,House of Representatives,100,0,0,0
+GA12,Georgia,Rick Allen,Rick W. Allen,@RepRickAllen,R,House of Representatives,87,0,0,0
+WA02,Washington,Rick Larsen,Rick Larsen,@RepRickLarsen,D,House of Representatives,100,0,0,0
+VA05,Virginia,Denver Riggleman,Denver Riggleman,@RepRiggleman,R,House of Representatives,100,0,0,0
+UT01,Utah,Rob Bishop,Rob Bishop,@RepRobBishop,R,House of Representatives,100,0,0,0
+GA07,Georgia,Rob Woodall,Rob Woodall,@RepRobWoodall,R,House of Representatives,100,0,0,0
+IL02,Illinois,Robin Kelly,Robin Kelly,@RepRobinKelly,D,House of Representatives,100,0,0,0
+KS04,Kansas,Ron Estes,Ron Estes,@RepRonEstes,R,House of Representatives,100,0,0,0
+WI03,Wisconsin,Ron Kind,Ron Kind,@RepRonKind,D,House of Representatives,100,0,0,0
+TX06,Virginia,Ron Wright,Rob Wittman,@RepRonWright,R,House of Representatives,57,2,0,0
+FL19,Florida,Francis Rooney,Francis Rooney,@RepRooney,R,House of Representatives,100,0,0,0
+CA40,California,Lucille RoybalAllard,Lucille Roybal-Allard,@RepRoybalAllard,D,House of Representatives,98,0,0,0
+ID01,Idaho,Russ Fulcher,Russ Fulcher,@RepRussFulcher,R,House of Representatives,100,0,0,0
+MO06,Missouri,Sam Graves,Sam Graves,@RepSamGraves,R,House of Representatives,100,0,0,0
+MD03,Maryland,John Sarbanes,John Sarbanes,@RepSarbanes,D,House of Representatives,100,0,0,0
+IL10,Illinois,Bradley Schneider,Brad Schneider,@RepSchneider,D,House of Representatives,90,0,0,0
+OR05,Oregon,Kurt Schrader,Kurt Schrader,@RepSchrader,D,House of Representatives,100,0,0,0
+PA10,Tennessee,Scott Perry,Scott DesJarlais,@RepScottPerry,R,House of Representatives,59,2,0,0
+CA52,Tennessee,Scott Peters,Scott DesJarlais,@RepScottPeters,R,House of Representatives,64,1,0,0
+WI07,Wisconsin,Sean Duffy,Sean Duffy,@RepSeanDuffy,R,House of Representatives,100,0,0,0
+NY18,New York,Sean Maloney,Sean Patrick Maloney,@RepSeanMaloney,D,House of Representatives,75,0,0,0
+FL27,Florida,Donna Shalala,Donna Shalala,@RepShalala,D,House of Representatives,100,0,0,0
+NJ11,New Jersey,Mikie Sherrill,Mikie Sherrill,@RepSherrill,D,House of Representatives,100,0,0,0
+IL15,Illinois,John Shimkus,John Shimkus,@RepShimkus,R,House of Representatives,100,0,0,0
+NJ08,New Jersey,Albio Sires,Albio Sires,@RepSires,D,House of Representatives,100,0,0,0
+MI08,Michigan,Elissa Slotkin,Elissa Slotkin,@RepSlotkin,D,House of Representatives,100,0,0,0
+PA11,Pennsylvania,Lloyd Smucker,Lloyd Smucker,@RepSmucker,R,House of Representatives,100,0,0,0
+VA07,Virginia,Abigail Spanberger,Abigail Spanberger,@RepSpanberger,D,House of Representatives,100,0,0,0
+NY21,New York,Elise Stefanik,Elise Stefanik,@RepStefanik,R,House of Representatives,100,0,0,0
+FL07,Florida,Stephanie Murphy,Stephanie Murphy,@RepStephMurphy,D,House of Representatives,100,0,0,0
+MA08,Massachusetts,Stephen Lynch,Stephen F. Lynch,@RepStephenLynch,D,House of Representatives,90,0,0,0
+OH01,Ohio,Steve Chabot,Steve Chabot,@RepSteveChabot,R,House of Representatives,100,0,0,0
+OH15,Ohio,Steve Stivers,Steve Stivers,@RepSteveStivers,R,House of Representatives,100,0,0,0
+CA53,Maine,Susan Davis,Susan Collins,@RepSusanDavis,R,Senate,67,2,0,0
+PA07,Pennsylvania,Susan Wilk,Susan Wild,@RepSusanWild,D,House of Representatives,90,0,0,0
+NV03,Nevada,Susie Lee,Susie Lee,@RepSusieLee,D,House of Representatives,100,0,0,0
+TX29,Texas,Sylvia Garcia,Sylvia Garcia,@RepSylviaGarcia,D,House of Representatives,100,0,0,0
+NC13,North Carolina,Ted Budd,Ted Budd,@RepTedBudd,R,House of Representatives,100,0,0,0
+FL22,Florida,Theodore Deutch,Ted Deutch,@RepTedDeutch,D,House of Representatives,80,0,0,0
+CA33,California,Ted Lieu,Ted Lieu,@RepTedLieu,D,House of Representatives,100,0,0,0
+FL03,Florida,Ted Yoho,Ted Yoho,@RepTedYoho,R,House of Representatives,100,0,0,0
+KY04,Kentucky,Thomas Massie,Thomas Massie,@RepThomasMassie,R,House of Representatives,100,0,0,0
+TN02,Tennessee,Tim Burchett,Tim Burchett,@RepTimBurchett,R,House of Representatives,100,0,0,0
+OH13,Virginia,Tim Ryan,Tim Kaine,@RepTimRyan,D,Senate,71,0,0,0
+CO03,Colorado,Scott Tipton,Scott Tipton,@RepTipton,R,House of Representatives,100,0,0,0
+MN06,Minnesota,Tom Emmer,Tom Emmer,@RepTomEmmer,R,House of Representatives,100,0,0,0
+GA14,Georgia,Tom Graves,Tom Graves,@RepTomGraves,R,House of Representatives,100,0,0,0
+NY23,South Carolina,Tom Reed,Tom Rice,@RepTomReed,R,House of Representatives,75,1,0,0
+SC07,South Carolina,Tom Rice,Tom Rice,@RepTomRice,R,House of Representatives,100,0,0,0
+NY03,New York,Thomas Suozzi,Thomas Suozzi,@RepTomSuozzi,D,House of Representatives,100,0,0,0
+NM02,New Mexico,Xochitl Small,Xochitl Torres Small,@RepTorresSmall,D,House of Representatives,79,0,0,0
+MS01,Mississippi,Trent Kelly,Trent Kelly,@RepTrentKelly,R,House of Representatives,100,0,0,0
+IN09,Indiana,Trey Hollingsworth,Trey Hollingsworth,@RepTrey,R,House of Representatives,100,0,0,0
+IL14,Illinois,Lauren Underwood,Lauren Underwood,@RepUnderwood,D,House of Representatives,100,0,0,0
+FL10,Florida,Val Demings,Val Demings,@RepValDemings,D,House of Representatives,100,0,0,0
+TX03,Texas,Van Taylor,Van Taylor,@RepVanTaylor,R,House of Representatives,100,0,0,0
+TX33,Texas,Marc Veasey,Marc Veasey,@RepVeasey,D,House of Representatives,100,0,0,0
+IN01,Indiana,Peter Visclosky,Pete Visclosky,@RepVisclosky,D,House of Representatives,97,0,0,0
+MI07,Michigan,Tim Walberg,Tim Walberg,@RepWalberg,R,House of Representatives,100,0,0,0
+IN02,Indiana,Jackie Walorski,Jackie Walorski,@RepWalorski,R,House of Representatives,100,0,0,0
+NC03,North Carolina,Walter Jones,Walter B. Jones Jr.,@RepWalterJones,R,House of Representatives,77,0,0,0
+FL11,Texas,Daniel Webster,Randy Weber,@RepWebster,R,House of Representatives,64,1,0,0
+VA10,Virginia,Jennifer Wexton,Jennifer Wexton,@RepWexton,D,House of Representatives,100,0,0,0
+FL24,Florida,Frederica Wilson,Frederica Wilson,@RepWilson,D,House of Representatives,100,0,0,0
+NY09,New York,Yvette Clarke,Yvette Clarke,@RepYvetteClarke,D,House of Representatives,100,0,0,0
+CA50,California,Duncan Hunter,Duncan D. Hunter,@Rep_Hunter,R,House of Representatives,90,0,0,0
+VA01,Virginia,Robert Wittman,Rob Wittman,@RobWittman,R,House of Representatives,88,0,0,0
+IL13,Illinois,Rodney Davis,Danny K. Davis,@RodneyDavis,D,House of Representatives,62,2,0,0
+GA02,Georgia,Sanford Bishop,Sanford Bishop,@SanfordBishop,D,House of Representatives,100,0,0,0
 VA,Connecticut,Mark Murphy,Chris Murphy,@SenMurphyOffice,D,Senate,70,0,0,0
 DE,New York,Thomas Rubio,Thomas Suozzi,@SenRubioPress,D,House of Representatives,72,1,0,0
 FL,Mississippi,Rick Wicker,Roger Wicker,@SenatorWicker,R,Senate,70,0,0,0
-LA-01,Louisiana,Steve Scalise,Steve Scalise,@SteveScalise,R,House of Representatives,100,0,0,0
-IN-05,Indiana,Susan Brooks,Susan Brooks,@SusanWBrooks,R,House of Representatives,100,0,0,0
-TX-14,Texas,Randy Sr.,Randy Weber,@TXRandy14,R,House of Representatives,70,0,0,0
-OK-04,Oklahoma,Tom Cole,Tom Cole,@TomColeOK04,R,House of Representatives,100,0,0,0
-HI-02,Hawaii,Tulsi Gabbard,Tulsi Gabbard,@TulsiPress,D,House of Representatives,100,0,0,0
-FL-14,Florida,Kathy Castor,Kathy Castor,@USRepKCastor,D,House of Representatives,100,0,0,0
-MA-09,South Carolina,William Keating,William Timmons,@USRepKeating,R,House of Representatives,67,1,0,0
-MO-07,Missouri,Billy Long,Billy Long,@USRepLong,R,House of Representatives,100,0,0,0
-FL-16,Florida,Vern Buchanan,Vern Buchanan,@VernBuchanan,R,House of Representatives,100,0,0,0
-OH-08,Ohio,Warren Davidson,Warren Davidson,@WarrenDavidson,R,House of Representatives,100,0,0,0
-SC-06,South Carolina,James Clyburn,Jim Clyburn,@WhipClyburn,D,House of Representatives,83,0,0,0
-OH-05,Ohio,Robert Latta,Bob Latta,@boblatta,R,House of Representatives,76,0,0,0
-WA-05,Washington,Cathy Rodgers,Cathy McMorris Rodgers,@cathymcmorris,R,House of Representatives,74,0,0,0
-ME-01,Maine,Chellie Pingree,Chellie Pingree,@chelliepingree,D,House of Representatives,100,0,0,0
-FL-08,Florida,Bill Posey,Bill Posey,@congbillposey,R,House of Representatives,100,0,0,0
-IA-02,Iowa,David Loebsack,Dave Loebsack,@daveloebsack,D,House of Representatives,89,0,0,0
-RI-01,Rhode Island,David Cicilline,David Cicilline,@davidcicilline,D,House of Representatives,100,0,0,0
+LA01,Louisiana,Steve Scalise,Steve Scalise,@SteveScalise,R,House of Representatives,100,0,0,0
+IN05,Indiana,Susan Brooks,Susan Brooks,@SusanWBrooks,R,House of Representatives,100,0,0,0
+TX14,Texas,Randy Sr.,Randy Weber,@TXRandy14,R,House of Representatives,70,0,0,0
+OK04,Oklahoma,Tom Cole,Tom Cole,@TomColeOK04,R,House of Representatives,100,0,0,0
+HI02,Hawaii,Tulsi Gabbard,Tulsi Gabbard,@TulsiPress,D,House of Representatives,100,0,0,0
+FL14,Florida,Kathy Castor,Kathy Castor,@USRepKCastor,D,House of Representatives,100,0,0,0
+MA09,South Carolina,William Keating,William Timmons,@USRepKeating,R,House of Representatives,67,1,0,0
+MO07,Missouri,Billy Long,Billy Long,@USRepLong,R,House of Representatives,100,0,0,0
+FL16,Florida,Vern Buchanan,Vern Buchanan,@VernBuchanan,R,House of Representatives,100,0,0,0
+OH08,Ohio,Warren Davidson,Warren Davidson,@WarrenDavidson,R,House of Representatives,100,0,0,0
+SC06,South Carolina,James Clyburn,Jim Clyburn,@WhipClyburn,D,House of Representatives,83,0,0,0
+OH05,Ohio,Robert Latta,Bob Latta,@boblatta,R,House of Representatives,76,0,0,0
+WA05,Washington,Cathy Rodgers,Cathy McMorris Rodgers,@cathymcmorris,R,House of Representatives,74,0,0,0
+ME01,Maine,Chellie Pingree,Chellie Pingree,@chelliepingree,D,House of Representatives,100,0,0,0
+FL08,Florida,Bill Posey,Bill Posey,@congbillposey,R,House of Representatives,100,0,0,0
+IA02,Iowa,David Loebsack,Dave Loebsack,@daveloebsack,D,House of Representatives,89,0,0,0
+RI01,Rhode Island,David Cicilline,David Cicilline,@davidcicilline,D,House of Representatives,100,0,0,0
 MT,New York,Steve Gillibrand,Kirsten Gillibrand,@gillibrandny,D,Senate,76,0,0,0
-CA-32,California,Grace Napolitano,Grace Napolitano,@gracenapolitano,D,House of Representatives,100,0,0,0
-CT-04,Connecticut,James Himes,Jim Himes,@jahimes,D,House of Representatives,80,0,0,0
-IL-09,Illinois,Janice Schakowsky,Jan Schakowsky,@janschakowsky,D,House of Representatives,90,0,0,0
-MI-03,Michigan,Justin Amash,Justin Amash,@justinamash,R,House of Representatives,100,0,0,0
-TX-26,Texas,Michael Burgess,Michael C. Burgess,@michaelcburgess,R,House of Representatives,91,0,0,0
-NM-03,New Mexico,Ben LujÃ¡n,Ben Ray Luján,@repbenraylujan,D,House of Representatives,70,0,0,0
-OR-03,Oregon,Earl Blumenauer,Earl Blumenauer,@repblumenauer,D,House of Representatives,100,0,0,0
-MO-05,Missouri,Emanuel Cleaver,Emanuel Cleaver,@repcleaver,D,House of Representatives,100,0,0,0
-GA-13,South Carolina,David Scott,Tim Scott,@repdavidscott,R,Senate,70,0,0,0
-NV-01,Nevada,Dina Titus,Dina Titus,@repdinatitus,D,House of Representatives,100,0,0,0
-OR-02,Oregon,Greg Walden,Greg Walden,@repgregwalden,R,House of Representatives,100,0,0,0
-TN-05,Tennessee,Jim Cooper,Jim Cooper,@repjimcooper,D,House of Representatives,100,0,0,0
-GA-05,Georgia,John Lewis,John Lewis,@repjohnlewis,D,House of Representatives,100,0,0,0
-OK-01,Oklahoma,Kevin Hern,Kevin Hern,@repkevinhern,R,House of Representatives,100,0,0,0
-TX-01,Texas,Louie Gohmert,Louie Gohmert,@replouiegohmert,R,House of Representatives,100,0,0,0
-WI-02,Wisconsin,Mark Pocan,Mark Pocan,@repmarkpocan,D,House of Representatives,100,0,0,0
-SC-04,South Carolina,William Timmons,William Timmons,@reptimmons,R,House of Representatives,100,0,0,0
-CT-03,Connecticut,Rosa DeLauro,Rosa DeLauro,@rosadelauro,D,House of Representatives,100,0,0,0
-MA-06,Massachusetts,Seth Moulton,Seth Moulton,@teammoulton,D,House of Representatives,100,0,0,0
-NC-05,North Carolina,Virginia Foxx,Virginia Foxx,@virginiafoxx,R,House of Representatives,100,0,0,0
+CA32,California,Grace Napolitano,Grace Napolitano,@gracenapolitano,D,House of Representatives,100,0,0,0
+CT04,Connecticut,James Himes,Jim Himes,@jahimes,D,House of Representatives,80,0,0,0
+IL09,Illinois,Janice Schakowsky,Jan Schakowsky,@janschakowsky,D,House of Representatives,90,0,0,0
+MI03,Michigan,Justin Amash,Justin Amash,@justinamash,R,House of Representatives,100,0,0,0
+TX26,Texas,Michael Burgess,Michael C. Burgess,@michaelcburgess,R,House of Representatives,91,0,0,0
+NM03,New Mexico,Ben LujÃ¡n,Ben Ray Luján,@repbenraylujan,D,House of Representatives,70,0,0,0
+OR03,Oregon,Earl Blumenauer,Earl Blumenauer,@repblumenauer,D,House of Representatives,100,0,0,0
+MO05,Missouri,Emanuel Cleaver,Emanuel Cleaver,@repcleaver,D,House of Representatives,100,0,0,0
+GA13,South Carolina,David Scott,Tim Scott,@repdavidscott,R,Senate,70,0,0,0
+NV01,Nevada,Dina Titus,Dina Titus,@repdinatitus,D,House of Representatives,100,0,0,0
+OR02,Oregon,Greg Walden,Greg Walden,@repgregwalden,R,House of Representatives,100,0,0,0
+TN05,Tennessee,Jim Cooper,Jim Cooper,@repjimcooper,D,House of Representatives,100,0,0,0
+GA05,Georgia,John Lewis,John Lewis,@repjohnlewis,D,House of Representatives,100,0,0,0
+OK01,Oklahoma,Kevin Hern,Kevin Hern,@repkevinhern,R,House of Representatives,100,0,0,0
+TX01,Texas,Louie Gohmert,Louie Gohmert,@replouiegohmert,R,House of Representatives,100,0,0,0
+WI02,Wisconsin,Mark Pocan,Mark Pocan,@repmarkpocan,D,House of Representatives,100,0,0,0
+SC04,South Carolina,William Timmons,William Timmons,@reptimmons,R,House of Representatives,100,0,0,0
+CT03,Connecticut,Rosa DeLauro,Rosa DeLauro,@rosadelauro,D,House of Representatives,100,0,0,0
+MA06,Massachusetts,Seth Moulton,Seth Moulton,@teammoulton,D,House of Representatives,100,0,0,0
+NC05,North Carolina,Virginia Foxx,Virginia Foxx,@virginiafoxx,R,House of Representatives,100,0,0,0
 NY,Maine,Charles Kaine,Chellie Pingree,N/A,D,House of Representatives,57,1,0,0
